@@ -42,5 +42,19 @@ const minCost = function (costs) {
 	return Math.min(dp[idx][0], dp[idx][1], dp[idx][2])
 }
 
+const minCost_2 = function(costs) {
+    const n = costs.length;
+    const dp = []; // 定义初始状态
+    dp[0] = costs[0]; // 定义x为房子数，y为粉刷第x套房子3种价格
+    // dp[i] = [(min(dp[i-1][m + 1], dp[i-1][m + 2]) + cost[i][m]), ..]
+    for (let i = 1; i < n; i++) {
+        dp[i] = []
+        for (let j = 0; j < 3; j++) {
+           dp[i].push(Math.min(dp[i-1][(j+1) % 3], dp[i-1][(j+2) % 3]) + costs[i][j])
+        }
+    }
+    return Math.min(...dp[n-1])
+}
+
 const result = minCost([[17,2,17],[16,16,5],[14,3,19]])
 console.log(result)
