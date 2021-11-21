@@ -1,4 +1,7 @@
 /**
+ * 最长公共子序列
+ * https://leetcode-cn.com/problems/qJnOS7/
+ * 
  * @param {string} text1
  * @param {string} text2
  * @return {number}
@@ -29,4 +32,5 @@
         }
     }
     return dp[m - 1][n - 1]
+
 };
