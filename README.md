@@ -5,7 +5,9 @@
 [掘金](https://juejin.cn/post/7047525428637990926/)
 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/3_%E7%AD%89%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E5%8F%AF%E6%BB%A1%E8%B6%B3%E6%80%A7.js)
 
-
+**leetCode_684. 冗余连接**
+[掘金](https://juejin.cn/post/7047530486234611743/)
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/4_%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5.js)
 
 
 
