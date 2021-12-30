@@ -11,7 +11,7 @@
 
 **leetCode_1319. 连通网络的操作次数**
 [掘金](https://juejin.cn/post/7047536134208880677/)
-[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/5_连通网络的操作次数.js)
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/5_%20%E8%BF%9E%E9%80%9A%E7%BD%91%E7%BB%9C%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AC%A1%E6%95%B0.js)
 
 
 ## 掘金总目录
