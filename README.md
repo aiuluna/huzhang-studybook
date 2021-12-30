@@ -9,6 +9,9 @@
 [掘金](https://juejin.cn/post/7047530486234611743/)
 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/4_%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5.js)
 
+**leetCode_1319. 连通网络的操作次数**
+[掘金](https://juejin.cn/post/7047536134208880677/)
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/5_连通网络的操作次数.js)
 
 
 ## 掘金总目录
@@ -44,3 +47,5 @@
 - [【路飞】leetCode_990.等式方程的可满足性](https://juejin.cn/post/7047525428637990926/)
 
 - [【路飞】leetCode_684. 冗余连接](https://juejin.cn/post/7047530486234611743/)
+
+- [【路飞】leetCode_1319. 连通网络的操作次数](https://juejin.cn/post/7047536134208880677/)
