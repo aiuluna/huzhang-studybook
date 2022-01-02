@@ -1,5 +1,17 @@
 ## day day up
 
+### 2022/01/02
+**最长连续序列**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/6_%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.js)
+**移除最多的同行或同列石头**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/7_%E7%A7%BB%E9%99%A4%E6%9C%80%E5%A4%9A%E7%9A%84%E5%90%8C%E8%A1%8C%E6%88%96%E5%90%8C%E5%88%97%E7%9F%B3%E5%A4%B4.js)
+**交换字符串中的元素**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/8_%20%E4%BA%A4%E6%8D%A2%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E7%B4%A0.js)
+**账户合并**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/9_%E8%B4%A6%E6%88%B7%E5%90%88%E5%B9%B6.js)
+**情侣牵手**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/10_%E6%83%85%E4%BE%A3%E7%89%B5%E6%89%8B.js)
+
 ### 2021/12/31
 **leetCode_990.等式方程的可满足性**
 [掘金](https://juejin.cn/post/7047525428637990926/)
