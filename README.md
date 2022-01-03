@@ -1,4 +1,21 @@
 ## day day up
+### 2022/01/03
+**冗余连接 II**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/11_%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5%20II.js)
+
+**滑动窗口最大值**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/12_%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.js)
+
+**用Rand7()实现Rand10()**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/13_%E7%94%A8%20Rand7()%20%E5%AE%9E%E7%8E%B0%20Rand10().js)
+[掘金](https://juejin.cn/post/7049018452815642637/)
+
+**盛水最多的容器**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/14_%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.js)
+
+**字符串解码**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/15_%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.js)
+
 
 ### 2022/01/02
 **最长连续序列**
@@ -66,3 +83,5 @@
 - [【路飞】leetCode_684. 冗余连接](https://juejin.cn/post/7047530486234611743/)
 
 - [【路飞】leetCode_1319. 连通网络的操作次数](https://juejin.cn/post/7047536134208880677/)
+
+- [【路飞】leetCode_470. 用 Rand7() 实现 Rand10() [拒绝采样和古典概型] ](https://juejin.cn/post/7049018452815642637/)
