@@ -1,6 +1,56 @@
-### 虎某人的刷题史
+## day day up
+### 2022/01/03
+**冗余连接 II**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/11_%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5%20II.js)
 
-本仓库代码包含专题[算法刷题摘要](https://juejin.cn/column/7024790505292562440)
+**滑动窗口最大值**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/12_%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.js)
+
+**用Rand7()实现Rand10()**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/13_%E7%94%A8%20Rand7()%20%E5%AE%9E%E7%8E%B0%20Rand10().js)
+[掘金](https://juejin.cn/post/7049018452815642637/)
+
+**盛水最多的容器**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/14_%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.js)
+
+**字符串解码**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/15_%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.js)
+
+
+### 2022/01/02
+**最长连续序列**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/6_%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.js)
+
+**移除最多的同行或同列石头**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/7_%E7%A7%BB%E9%99%A4%E6%9C%80%E5%A4%9A%E7%9A%84%E5%90%8C%E8%A1%8C%E6%88%96%E5%90%8C%E5%88%97%E7%9F%B3%E5%A4%B4.js)
+
+**交换字符串中的元素**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/8_%20%E4%BA%A4%E6%8D%A2%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E7%B4%A0.js)
+
+**账户合并**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/9_%E8%B4%A6%E6%88%B7%E5%90%88%E5%B9%B6.js)
+
+**情侣牵手**
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/10_%E6%83%85%E4%BE%A3%E7%89%B5%E6%89%8B.js)
+
+
+### 2021/12/31
+**leetCode_990.等式方程的可满足性**
+[掘金](https://juejin.cn/post/7047525428637990926/)
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/3_%E7%AD%89%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E5%8F%AF%E6%BB%A1%E8%B6%B3%E6%80%A7.js)
+
+**leetCode_684. 冗余连接**
+[掘金](https://juejin.cn/post/7047530486234611743/)
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/4_%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5.js)
+
+**leetCode_1319. 连通网络的操作次数**
+[掘金](https://juejin.cn/post/7047536134208880677/)
+[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/5_%20%E8%BF%9E%E9%80%9A%E7%BD%91%E7%BB%9C%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AC%A1%E6%95%B0.js)
+
+
+## 掘金总目录
+
+**本仓库代码包含专题[算法刷题摘要](https://juejin.cn/column/7024790505292562440)**
 
 - [经典排序算法（附JavaScript实现，选择，插入，冒泡，快排，归并，后续补充中）](https://juejin.cn/post/7024792370851872798)
 
@@ -27,3 +77,11 @@
 - [如何设计超超超简易版推特-js篇（哈希表 + 链表 + 优先队列）](https://juejin.cn/post/7042981027886661646)
 
 - [我们为啥学队列？用js设计前中后队列 - (链表+数组两种实现方式) ](https://juejin.cn/post/7045691604144750622/)
+
+- [【路飞】leetCode_990.等式方程的可满足性](https://juejin.cn/post/7047525428637990926/)
+
+- [【路飞】leetCode_684. 冗余连接](https://juejin.cn/post/7047530486234611743/)
+
+- [【路飞】leetCode_1319. 连通网络的操作次数](https://juejin.cn/post/7047536134208880677/)
+
+- [【路飞】leetCode_470. 用 Rand7() 实现 Rand10() [拒绝采样和古典概型] ](https://juejin.cn/post/7049018452815642637/)
