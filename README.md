@@ -1,4 +1,11 @@
 ## day day up
+### 2022/01/04
+**归并排序** [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E6%8E%92%E5%BA%8F/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.js)
+
+**剑指offer 51 数组中的逆序对** [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E6%8E%92%E5%BA%8F/%E5%89%91%E6%8C%87%20Offer%2051.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.js)
+
+**合并k个升序链表** [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E6%8E%92%E5%BA%8F/%E5%90%88%E5%B9%B6K%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.js)
+
 ### 2022/01/03
 **冗余连接 II**
 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week10/11_%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5%20II.js)
