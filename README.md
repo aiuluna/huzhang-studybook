@@ -1,13 +1,13 @@
 ## day day up
 ### 2022/01/06
-**区间和的个数** [代码]()
+**区间和的个数** [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E6%8E%92%E5%BA%8F/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.js)
 
-**计算右侧小于当前元素的个数** [代码]()
+**计算右侧小于当前元素的个数** [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E6%8E%92%E5%BA%8F/%E8%AE%A1%E7%AE%97%E5%8F%B3%E4%BE%A7%E5%B0%8F%E4%BA%8E%E5%BD%93%E5%89%8D%E5%85%83%E7%B4%A0%E7%9A%84%E4%B8%AA%E6%95%B0.js)
 
-**最大子数组和** [代码]()
+**最大子数组和** [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E6%8E%92%E5%BA%8F/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.js)
 
 ### 2022/01/05
-**两棵二叉搜索树中的所有元素** [代码]()
+**两棵二叉搜索树中的所有元素** [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E6%8E%92%E5%BA%8F/%E4%B8%A4%E6%A3%B5%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E5%85%83%E7%B4%A0.js)
 
 ### 2022/01/04
 **归并排序** [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E6%8E%92%E5%BA%8F/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.js)
