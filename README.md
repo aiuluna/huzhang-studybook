@@ -1,4 +1,9 @@
 ## day day up
+### 2022/01/07
+**1302. 层数最深叶子节点的和** [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E5%BD%92%E5%B9%B6/1302.%20%E5%B1%82%E6%95%B0%E6%9C%80%E6%B7%B1%E5%8F%B6%E5%AD%90%E8%8A%82%E7%82%B9%E7%9A%84%E5%92%8C.js)
+**面试题 04.08. 首个共同祖先** [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E5%BD%92%E5%B9%B6/%E9%9D%A2%E8%AF%95%E9%A2%98%2004.08.%20%E9%A6%96%E4%B8%AA%E5%85%B1%E5%90%8C%E7%A5%96%E5%85%88.js)
+
+
 ### 2022/01/06
 **区间和的个数** [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E6%8E%92%E5%BA%8F/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.js)
 
