@@ -1,4 +1,11 @@
 ## day day up
+### 2022/01/09
+- 排序数组 [代码]()
+- 数组中的逆序对 [代码]()
+- 排序链表 [代码]()
+- 两颗二叉搜索树种的所有元素 [代码]()
+- 首个共同祖先 [代码]()
+
 ### 2022/01/08
 - 字符串解码 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week11/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.js)
 - 不同的二叉搜索树 II [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week11/%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%20II.js)
