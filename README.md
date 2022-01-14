@@ -1,4 +1,8 @@
 ## day day up
+### 2022/01/10
+- 合并K个升序链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week12/%E5%90%88%E5%B9%B6K%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.js)
+- 子数组和排序后的区间和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week12/%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C%E6%8E%92%E5%BA%8F%E5%90%8E%E7%9A%84%E5%8C%BA%E9%97%B4%E5%92%8C.js)
+
 ### 2022/01/09
 - 排序数组 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week11/%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.js)
 - 数组中的逆序对 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week11/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.js)
