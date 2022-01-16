@@ -1,4 +1,13 @@
 ## day day up
+### 2022/01/16
+- 删除被覆盖区间 [代码]()
+- 递增子序列 [代码]()
+- 求和路径 [代码]()
+- 周赛
+ - 将字符串拆分为若干长度为 k 的组 [代码]()
+ - 得到目标值的最少行动次数 [代码]()
+ - 解决智力问题 [代码]()
+- 
 ### 2022/01/15
 - 最大子数组和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week12/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.js)
 - 合并区间 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week12/%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.js)
