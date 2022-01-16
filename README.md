@@ -1,13 +1,13 @@
 ## day day up
 ### 2022/01/16
-- 删除被覆盖区间 [代码]()
-- 递增子序列 [代码]()
-- 求和路径 [代码]()
+- 删除被覆盖区间 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week12/%E5%88%A0%E9%99%A4%E8%A2%AB%E8%A6%86%E7%9B%96%E5%8C%BA%E9%97%B4.js)
+- 递增子序列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week12/%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.js)
+- 求和路径 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week12/%E6%B1%82%E5%92%8C%E8%B7%AF%E5%BE%84.js)
 - 周赛
- - 将字符串拆分为若干长度为 k 的组 [代码]()
- - 得到目标值的最少行动次数 [代码]()
- - 解决智力问题 [代码]()
-- 
+  - 将字符串拆分为若干长度为 k 的组 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E5%91%A8%E8%B5%9B/276/%E5%B0%86%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%8B%86%E5%88%86%E4%B8%BA%E8%8B%A5%E5%B9%B2%E9%95%BF%E5%BA%A6%E4%B8%BA%20k%20%E7%9A%84%E7%BB%84.js)
+  - 得到目标值的最少行动次数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E5%91%A8%E8%B5%9B/276/%E5%BE%97%E5%88%B0%E7%9B%AE%E6%A0%87%E5%80%BC%E7%9A%84%E6%9C%80%E5%B0%91%E8%A1%8C%E5%8A%A8%E6%AC%A1%E6%95%B0.js)
+  - 解决智力问题 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/others/%E5%91%A8%E8%B5%9B/276/%E8%A7%A3%E5%86%B3%E6%99%BA%E5%8A%9B%E9%97%AE%E9%A2%98.js)
+
 ### 2022/01/15
 - 最大子数组和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week12/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.js)
 - 合并区间 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week12/%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.js)
