@@ -1,4 +1,7 @@
 ## day day up
+### 2022/01/21
+- 课程表2 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E8%AF%BE%E7%A8%8B%E8%A1%A82.js)
+- 数组的相对排序 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E6%95%B0%E7%BB%84%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%8E%92%E5%BA%8F.js)
 ### 2022/01/19
 - 课程表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E8%AF%BE%E7%A8%8B%E8%A1%A8.js)
 - 链表求和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E9%93%BE%E8%A1%A8%E6%B1%82%E5%92%8C.js)
