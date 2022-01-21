@@ -1,35 +1,34 @@
+// DFS
 /**
  * @param {number} numCourses
  * @param {number[][]} prerequisites
  * @return {boolean}
  */
  var canFinish = function (numCourses, prerequisites) {
-    const visited = [];
-
     const graph = new Graph(numCourses);
 
-    for (let i = 0; i < prerequisites.length; i++) {
-        const [a, b] = prerequisites[i];
-        graph.addEdge(b, a);
+    for (let [a, b] of prerequisites) {
+        graph.add(b, a)
     }
 
-    var onPath = [];
-    var hasCycle = false;
-    var dfs = function (s) {
-        if (onPath[s]) {
+    const visited = new Array(numCourses).fill(0);
+    const path = new Array(numCourses).fill(0);
+    let hasCycle = false;
+    const dfs = function (s) {
+        if (path[s]) {
             hasCycle = true;
-            return
+            return;
         }
-        if (visited[s]) return;
+        if (visited[s] || hasCycle) return;
+        visited[s] = 1;
 
-        visited[s] = true;
-        onPath[s] = true;
-        let list = graph.adj[s].next;
-        while (list) {
-            dfs(list.val)
-            list = list.next;
+        path[s] = 1;
+        let { nodeList } = graph.list[s];
+        while (nodeList) {
+            dfs(nodeList.val)
+            nodeList = nodeList.next;
         }
-        onPath[s] = false;
+        path[s] = 0;
     }
 
     for (let i = 0; i < numCourses; i++) {
@@ -40,26 +39,87 @@
 
 };
 
-var ListNode = function (val, next) {
-    this.val = (val || val === 0) ? val : null
+const Graph = function (v) {
+    this.list = new Array(v);
+    for (let i = 0; i < v; i++) {
+        this.list[i] = {
+            val: i,
+            nodeList: null
+        }
+    }
+}
+
+Graph.prototype.add = function (s, t) {
+    const { nodeList } = this.list[s];
+    const node = new ListNode(t, nodeList);
+    this.list[s].nodeList = node;
+}
+
+const ListNode = function (val, next) {
+    this.val = (val || val === 0) ? val : null;
     this.next = next || null;
 }
 
 
-class Graph {
-    constructor(v) {
-        this.v = v;
-        this.adj = [];
-        for (let i = 0; i < v; i++) {
-            this.adj[i] = new ListNode(i)
+
+// 入度BFS
+/**
+ * @param {number} numCourses
+ * @param {number[][]} prerequisites
+ * @return {boolean}
+ */
+ var canFinish = function (numCourses, prerequisites) {
+    const graph = new Graph(numCourses);
+    const queue = [];
+    const rudu = new Array(numCourses).fill(0);
+
+    for (let [a, b] of prerequisites) {
+        graph.add(b, a);
+        rudu[a]++;
+    }
+
+    for (let i = 0; i < rudu.length; i++) {
+        if (rudu[i] === 0) {
+            queue.push(i)
         }
     }
 
-    addEdge(a, b) {
-        let cur = this.adj[a];
-        while (cur.next) {
-            cur = cur.next;
+    while (queue.length) {
+        const top = queue.shift();
+        let { nodeList } = graph.list[top];
+        while (nodeList) {
+            rudu[nodeList.val]--;
+            if (!rudu[nodeList.val]) queue.push(nodeList.val);
+            nodeList = nodeList.next;
         }
-        cur.next = new ListNode(b)
     }
+
+    for (let r of rudu) {
+        if (r) {
+            return false
+        }
+    }
+    return true
+};
+
+const Graph = function (v) {
+    this.v = v;
+    this.list = []
+    for (let i = 0; i < v; i++) {
+        this.list[i] = {
+            val: i,
+            nodeList: null
+        }
+    }
+}
+
+Graph.prototype.add = function (s, t) {
+    const { nodeList } = this.list[s];
+    const node = new ListNode(t, nodeList);
+    this.list[s].nodeList = node;
+}
+
+const ListNode = function (val, next) {
+    this.val = (val || val === 0) ? val : null;
+    this.next = next;
 }
