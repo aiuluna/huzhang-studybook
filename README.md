@@ -1,4 +1,7 @@
 ## day day up
+### 2022/01/22
+- 最大间距 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.js)
+- H指数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/H%20%E6%8C%87%E6%95%B0.js)
 ### 2022/01/21
 - 课程表2 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E8%AF%BE%E7%A8%8B%E8%A1%A82.js)
 - 数组的相对排序 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E6%95%B0%E7%BB%84%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%8E%92%E5%BA%8F.js)
