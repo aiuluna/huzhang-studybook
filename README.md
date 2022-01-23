@@ -1,13 +1,23 @@
 ## day day up
+### 2022/01/23
+- 划分字母区间 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.js)
+- 部分排序 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E9%83%A8%E5%88%86%E6%8E%92%E5%BA%8F.js)
+- 最长同值路径 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84.js)
+- 最大数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E6%9C%80%E5%A4%A7%E6%95%B0.js)
+- 前K个高频元素 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.js)
+
 ### 2022/01/22
 - 最大间距 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.js)
 - H指数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/H%20%E6%8C%87%E6%95%B0.js)
+
 ### 2022/01/21
 - 课程表2 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E8%AF%BE%E7%A8%8B%E8%A1%A82.js)
 - 数组的相对排序 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E6%95%B0%E7%BB%84%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%8E%92%E5%BA%8F.js)
+
 ### 2022/01/19
 - 课程表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E8%AF%BE%E7%A8%8B%E8%A1%A8.js)
 - 链表求和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E9%93%BE%E8%A1%A8%E6%B1%82%E5%92%8C.js)
+
 ### 2022/01/16
 - 删除被覆盖区间 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week12/%E5%88%A0%E9%99%A4%E8%A2%AB%E8%A6%86%E7%9B%96%E5%8C%BA%E9%97%B4.js)
 - 递增子序列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week12/%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.js)
