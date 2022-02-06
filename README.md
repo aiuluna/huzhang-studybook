@@ -1,8 +1,11 @@
 ## day day up
 ### 2022/02/06
+- 两数之和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week14/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.js)
+- 搜索插入位置 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week14/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.js)
+- 在排序数组中查找元素的第一个和最后一个位置 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week14/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.js)
 - 将 x 减到 0 的最小操作数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week15/%E5%B0%86%20x%20%E5%87%8F%E5%88%B0%200%20%E7%9A%84%E6%9C%80%E5%B0%8F%E6%93%8D%E4%BD%9C%E6%95%B0.js)
 - 可获得的最大点数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week15/%E5%8F%AF%E8%8E%B7%E5%BE%97%E7%9A%84%E6%9C%80%E5%A4%A7%E7%82%B9%E6%95%B0.js)
-
+- webpack面试题demo [代码](https://github.com/aiuluna/huzhang-studybook/tree/main/src/interview/webpack)
 ### 2022/01/23
 - 划分字母区间 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.js)
 - 部分排序 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week13/%E9%83%A8%E5%88%86%E6%8E%92%E5%BA%8F.js)
