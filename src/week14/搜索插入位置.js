@@ -53,3 +53,40 @@
     }
     return ans;
 };
+
+
+
+/**
+ * 二分法
+ * @param {number[]} houses
+ * @param {number[]} heaters
+ * @return {number}
+ */
+ var findRadius = function (houses, heaters) {
+
+    houses.sort((a, b) => a - b);
+    heaters.sort((a, b) => a - b);
+    
+    let res = 0;
+    for (let x of houses) {
+        res = Math.max(binarySearch(heaters, x), res);
+    }
+    return res;
+};
+
+// 返回离target最近的值的距离
+var binarySearch = function (array, target) {
+    let x = 0, y = array.length - 1, mid, res = Infinity;
+    while (y - x > 3) {
+        mid = x + ((y - x) >> 1);
+        if (array[mid] <= target) {
+            x = mid;
+        } else {
+            y = mid;
+        }
+    }
+    for (let i = x; i <= y; i++) {
+        res = Math.min(Math.abs(array[i] - target), res);
+    }
+    return res;
+}
