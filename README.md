@@ -1,4 +1,9 @@
 ## day day up
+### 2022/02/07
+- 合并排序的数组
+- 数组拆分 I
+- 移动零
+- 字符频次唯一的最小删除次数
 ### 2022/02/06
 - 两数之和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week14/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.js)
 - 搜索插入位置 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week14/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.js)
