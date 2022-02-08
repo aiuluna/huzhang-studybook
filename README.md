@@ -1,4 +1,9 @@
 ## day day up
+
+### 2022/02/08
+- 寻找两个正序数组的中位数（二分，寻找第K小的数）[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week15/%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.js)
+- 最长递增子序列 [代码]()  [掘金](https://juejin.cn/post/7062362887376879653/)
+
 ### 2022/02/07
 - 合并排序的数组 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week15/%E5%90%88%E5%B9%B6%E6%8E%92%E5%BA%8F%E7%9A%84%E6%95%B0%E7%BB%84.js)
 - 数组拆分 I[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week15/%E6%95%B0%E7%BB%84%E6%8B%86%E5%88%86%20I.js)
