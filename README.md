@@ -1,5 +1,13 @@
 ## day day up
 
+### 2022/02/13
+- 被围绕的区域 [代码]()
+- 设计哈希集合 [代码]()
+- 设计哈希映射 [代码]()
+- 重复的DNA序列 [代码]()
+- LRU 缓存 [代码]()
+- TinyURL 的加密与解密 [代码]()
+
 ### 2022/02/12
 - 扁平化多级双向链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week15/%E6%89%81%E5%B9%B3%E5%8C%96%E5%A4%9A%E7%BA%A7%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.js)
 - 二叉树中所有距离为 K 的结点 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week15/%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E6%89%80%E6%9C%89%E8%B7%9D%E7%A6%BB%E4%B8%BA%20K%20%E7%9A%84%E7%BB%93%E7%82%B9.js)
