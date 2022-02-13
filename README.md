@@ -1,12 +1,12 @@
 ## day day up
 
 ### 2022/02/13
-- 被围绕的区域 [代码]()
-- 设计哈希集合 [代码]()
-- 设计哈希映射 [代码]()
-- 重复的DNA序列 [代码]()
-- LRU 缓存 [代码]()
-- TinyURL 的加密与解密 [代码]()
+- 被围绕的区域 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week16/%E8%A2%AB%E5%9B%B4%E7%BB%95%E7%9A%84%E5%8C%BA%E5%9F%9F.js)
+- 设计哈希集合 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week16/%E8%AE%BE%E8%AE%A1%E5%93%88%E5%B8%8C%E9%9B%86%E5%90%88.js)
+- 设计哈希映射 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week16/%E8%AE%BE%E8%AE%A1%E5%93%88%E5%B8%8C%E6%98%A0%E5%B0%84.js)
+- 重复的DNA序列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week16/%E9%87%8D%E5%A4%8D%E7%9A%84DNA%E5%BA%8F%E5%88%97.js)
+- LRU 缓存 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week16/LRU%20%E7%BC%93%E5%AD%98.js)
+- TinyURL 的加密与解密 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week16/TinyURL%20%E7%9A%84%E5%8A%A0%E5%AF%86%E4%B8%8E%E8%A7%A3%E5%AF%86.js)
 
 ### 2022/02/12
 - 扁平化多级双向链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week15/%E6%89%81%E5%B9%B3%E5%8C%96%E5%A4%9A%E7%BA%A7%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.js)
