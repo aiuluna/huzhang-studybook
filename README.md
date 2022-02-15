@@ -1,5 +1,8 @@
 ## day day up
 
+### 2022/02/15
+- 目标和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week16/%E7%9B%AE%E6%A0%87%E5%92%8C.js)
+
 ### 2022/02/13
 - 被围绕的区域 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week16/%E8%A2%AB%E5%9B%B4%E7%BB%95%E7%9A%84%E5%8C%BA%E5%9F%9F.js)
 - 设计哈希集合 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week16/%E8%AE%BE%E8%AE%A1%E5%93%88%E5%B8%8C%E9%9B%86%E5%90%88.js)
