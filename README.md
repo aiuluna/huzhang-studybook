@@ -1,4 +1,7 @@
 ## day day up
+### 2022/02/17
+- 火柴拼正方形 [代码]()
+- node课程 01,02 [代码]()
 
 ### 2022/02/15
 - 目标和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week16/%E7%9B%AE%E6%A0%87%E5%92%8C.js)
