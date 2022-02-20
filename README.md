@@ -1,6 +1,6 @@
 ## day day up
 ### 2022/02/20
-- promise源码 [代码]()
+- promise源码 [代码](https://github.com/aiuluna/huzhang-studybook/tree/main/src/interview/promise)
 
 ### 2022/02/17
 - 火柴拼正方形 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week16/%E7%81%AB%E6%9F%B4%E6%8B%BC%E6%AD%A3%E6%96%B9%E5%BD%A2.js)
