@@ -89,7 +89,8 @@ MyPromise.prototype.catch = rejectfn => this.then(undefined, rejectfn);
 MyPromise.prototype.finally = callback => {
 	return this.then(
 		(val) => MyPromise.resolve(callback).then(() => val),
-		(reason) => MyPromise.resolve(callback).then(() => {
+		(reason) => MyPromise.resolve(callback).then(
+			() => {
 			throw	Error(reason)
 		})
 	)
