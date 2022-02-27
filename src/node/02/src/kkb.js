@@ -2,16 +2,27 @@ const http = require('http');
 const context = require('./context');
 const request = require('./request');
 const response = require('./response');
+const {compose} = require('./middleware')
 
 class KKB {
-    use(cb) {
-        this.callback = cb;
+    constructor() {
+        this.middlewares = [];
+    }
+
+    use(middleware) {
+        this.middlewares.push(middleware)
     }
 
     listen(...args) {
-        http.createServer((req, res) => {
+        http.createServer(async (req, res) => {
+            // 创建上下文
             const ctx = this.createContext(req, res);
-            this.callback(ctx);
+            // 中间件合成
+            const middlewareFn = compose(this.middlewares);
+            // 执行中间件
+            await middlewareFn(ctx)
+
+            // this.callback(ctx);
 
             res.end(ctx.body)
 
