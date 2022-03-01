@@ -1,7 +1,35 @@
 {
-  "name": "bingdundun-creator",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "huzhang",
-  "license": "MIT"
+    "name": "bingdundun-creator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "bin": {
+        "creator": "build/index.js"
+    },
+    "author": "huzhang",
+    "license": "MIT",
+    "dependencies": {
+        "@rollup/plugin-commonjs": "^20.0.0",
+        "@rollup/plugin-node-resolve": "^13.0.4",
+        "@rollup/plugin-replace": "^3.0.0",
+        "@rollup/plugin-typescript": "^8.2.5",
+        "@types/express": "^4.17.13",
+        "@types/node": "^16.4.13",
+        "@types/yargs-parser": "^20.2.1",
+        "axios": "^0.26.0",
+        "chalk": "^4.1.2",
+        "express": "^4.17.1",
+        "inquirer": "^8.1.2",
+        "postcss": "^8.3.6",
+        "rollup": "^2.56.0",
+        "rollup-plugin-hot": "^0.1.1",
+        "rollup-plugin-postcss": "^4.0.0",
+        "rollup-plugin-url": "^3.0.1",
+        "typescript": "^4.3.5",
+        "yargs-parser": "^20.2.9"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^7.3.3",
+        "download-git-repo": "^3.0.2",
+        "tslib": "^2.3.0"
+    }
 }

@@ -1,0 +1,28 @@
+{
+  "jsc": {
+    "target": "es5",
+    "keepClassNames": true,
+    "loose": true,
+    "parser": {
+      "syntax": "typescript",
+      "tsx": true,
+      "decorators": false,
+      "dynamicImport": false
+    },
+    "minify": {}
+  },
+  "module": {
+    "type": "commonjs",
+    "strict": false,
+    "strictMode": true,
+    "lazy": false,
+    "noInterop": false
+  },
+  "env": {
+    "targets": {
+      "ie": "11"
+    },
+    "corejs": "3"
+  },
+  "minify": true
+}
