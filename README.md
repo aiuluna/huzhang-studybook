@@ -1,4 +1,11 @@
 ## day day up
+### 2022/03/02
+- 单调栈 [代码]()
+- 全排列 [代码]()
+- 跳跃游戏2 [代码]()
+- 柱状图的最大的矩形 [代码]()
+- N皇后  [代码]()
+
 ### 2022/02/28
 - 打开转盘锁 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E6%89%93%E5%BC%80%E8%BD%AC%E7%9B%98%E9%94%81.js)
 - 机器人的运动范围 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.js)
