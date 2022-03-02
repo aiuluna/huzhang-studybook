@@ -1,0 +1,13 @@
+
+Creator help you create react/vue component project.
+
+Usage:
+    creator [command] [...args]
+
+command:
+    
+    create
+        create react/vue project.
+
+    dev
+        develop created project.
