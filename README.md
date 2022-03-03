@@ -1,4 +1,11 @@
 ## day day up
+### 2022/03/02
+- 单调栈 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E5%8D%95%E8%B0%83%E6%A0%88.js)
+- 全排列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E5%85%A8%E6%8E%92%E5%88%97.js)
+- 跳跃游戏2 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.js)
+- 柱状图的最大的矩形 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.js)
+- N皇后  [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/N%E7%9A%87%E5%90%8E.js)
+
 ### 2022/02/28
 - 打开转盘锁 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E6%89%93%E5%BC%80%E8%BD%AC%E7%9B%98%E9%94%81.js)
 - 机器人的运动范围 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.js)
