@@ -1,10 +1,10 @@
 ## day day up
 ### 2022/03/06
-- 132模式 [代码]()
-- 下一个更大元素 I [代码]()
-- 下一个更大元素 II [代码]()
-- 每日温度 [代码]()
-- 股票价格跨度 [代码]()
+- 132模式 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/132%20%E6%A8%A1%E5%BC%8F.js)
+- 下一个更大元素 I [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20I.js)
+- 下一个更大元素 II [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20II.js)
+- 每日温度 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.js)
+- 股票价格跨度 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E8%B7%A8%E5%BA%A6.js)
 ### 2022/03/02
 - 单调栈 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E5%8D%95%E8%B0%83%E6%A0%88.js)
 - 全排列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E5%85%A8%E6%8E%92%E5%88%97.js)
