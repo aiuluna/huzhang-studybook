@@ -1,4 +1,10 @@
 ## day day up
+### 2022/03/06
+- 132模式 [代码]()
+- 下一个更大元素 I [代码]()
+- 下一个更大元素 II [代码]()
+- 每日温度 [代码]()
+- 股票价格跨度 [代码]()
 ### 2022/03/02
 - 单调栈 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E5%8D%95%E8%B0%83%E6%A0%88.js)
 - 全排列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E5%85%A8%E6%8E%92%E5%88%97.js)
