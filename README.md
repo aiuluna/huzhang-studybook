@@ -1,6 +1,6 @@
 ## day day up
 ### 2022/03/07
-- 接雨水 [代码]()
+- 接雨水 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week18/%E6%8E%A5%E9%9B%A8%E6%B0%B4.js)
 ### 2022/03/06
 - 132模式 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/132%20%E6%A8%A1%E5%BC%8F.js)
 - 下一个更大元素 I [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week17/%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20I.js)
