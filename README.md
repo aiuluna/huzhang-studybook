@@ -1,4 +1,8 @@
 ## day day up
+### 2022/03/08
+- 员工的重要性 [代码]()
+- 和至少为K的最短子数组 [代码]()
+
 ### 2022/03/07
 - 接雨水 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week18/%E6%8E%A5%E9%9B%A8%E6%B0%B4.js)
 ### 2022/03/06
