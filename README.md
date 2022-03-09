@@ -1,9 +1,9 @@
 ## day day up
 ### 2022/03/09
-- 分发糖果 [代码]()
-- 腐烂的橘子 [代码]()
-- 绝对差不超过限制的最长连续子数组 [代码]()
-- 找左下角的值 [代码]()
+- 分发糖果 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week18/%E5%88%86%E5%8F%91%E7%B3%96%E6%9E%9C.js)
+- 腐烂的橘子 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week18/%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90.js)
+- 绝对差不超过限制的最长连续子数组 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week18/%E7%BB%9D%E5%AF%B9%E5%B7%AE%E4%B8%8D%E8%B6%85%E8%BF%87%E9%99%90%E5%88%B6%E7%9A%84%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84.js)
+- 找左下角的值 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week18/%E6%89%BE%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC.js)
 
 ### 2022/03/08
 - 员工的重要性 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week18/%E5%91%98%E5%B7%A5%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7.js)
