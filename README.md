@@ -1,4 +1,11 @@
 ## day day up
+### 2022/03/13
+- 袋子里最少数目的球 [代码]()
+- 二叉树的完全性检验 [代码]()
+- 二叉树中的列表 [代码]()
+- 复原 IP 地址 [代码]()
+- 字符串相乘 [代码]()
+
 ### 2022/03/09
 - 分发糖果 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week18/%E5%88%86%E5%8F%91%E7%B3%96%E6%9E%9C.js)
 - 腐烂的橘子 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week18/%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90.js)
