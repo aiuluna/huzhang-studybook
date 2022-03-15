@@ -1,4 +1,9 @@
 ## day day up
+### 2022/03/15
+- 寻找峰值 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 09. 用两个栈实现队列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 30. 包含min函数的栈 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+
 ### 2022/03/13
 - 袋子里最少数目的球 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week18)
 - 二叉树的完全性检验 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week18)
