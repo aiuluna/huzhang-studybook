@@ -15,8 +15,8 @@ const LOCAL_TEMPLATE_DIR = '.bingdundun-cli-temp'
 
 export class ProjectCreator {
 	public async create() {
-		const repo = await this.getRepo()
-		const tag = await this.getTag(repo)
+		const { repo, id, path } = await this.getRepo()
+		const tag = await this.getTag(id)
 		console.log(chalk.green(`用户选择 => ${repo}的 => ${tag}分支模板`))
 
 		const result = await inquirer.prompt([
@@ -28,7 +28,7 @@ export class ProjectCreator {
 			},
 		])
 
-		await this.downloadGitRepoFunc(repo, tag)
+		await this.downloadGitRepoFunc(path, tag)
 
 		const project = new Project(repo, result.name)
 		await this.createProjectFromTemplate(project)
@@ -53,16 +53,16 @@ export class ProjectCreator {
 				message: '选择模板类型',
 			},
 		])
-
-		return result.type
+		const selected = repoLists.filter((item) => item.name === result.type)
+		return {
+			repo: result.type,
+			id: selected[0].id,
+			path: selected[0].path,
+		}
 	}
 
-	async getTag(repoName: string) {
-		const tagLists = await warpLoading(
-			getTagList,
-			'waiting fetch tags',
-			repoName
-		)
+	async getTag(id: string) {
+		const tagLists = await warpLoading(getTagList, 'waiting fetch tags', id)
 		if (!tagLists) {
 			console.log(chalk.red('no tags'))
 			return
@@ -80,11 +80,7 @@ export class ProjectCreator {
 	}
 
 	async createProjectFromTemplate(project: Project) {
-		const templateDir = path.resolve(
-			__dirname,
-			'../',
-			LOCAL_TEMPLATE_DIR,
-		)
+		const templateDir = path.resolve(__dirname, '../', LOCAL_TEMPLATE_DIR)
 		const localDir = path.resolve(process.cwd(), project.getName())
 		if (!fs.existsSync(templateDir)) {
 			this.rmRepoTempDir()
@@ -155,21 +151,27 @@ export class ProjectCreator {
 
 	private async downloadGitRepoFunc(repoName: string, tag: string) {
 		const localTempDir = path.resolve(process.cwd(), LOCAL_TEMPLATE_DIR)
-        this.rmRepoTempDir()
+		this.rmRepoTempDir()
 		fs.mkdirSync(localTempDir)
-		const requestUrl = `bingdundun-templates/${repoName}${
-			tag ? '#' + tag : ''
-		}`
-		try {
-			await warpLoading(
-				util.promisify(downloadGitRepo),
-				'download git repo...',
-				requestUrl,
-				localTempDir
-			)
-		} catch (error) {
-			fs.rmSync(localTempDir, { recursive: true, force: true })
-		}
+        // gitee.com:yourname/repo#brach
+		const requestUrl = `direct:http://git.ichoice.cc/platform-base/react-ts-template#tag:0.0.1`
+		downloadGitRepo(requestUrl, localTempDir, {clone: true}, (err) => {
+            console.log(err)
+			console.log(err ? 'Error' : 'Success')
+		})
+        // http://git.ichoice.cc/platform-base/react-ts-template
+		// try {
+		// 	await warpLoading(
+		// 		util.promisify(downloadGitRepo),
+		// 		'download git repo...',
+		// 		requestUrl,
+		// 		localTempDir,
+		//         {clone: true}
+		// 	)
+		// } catch (error) {
+		//     console.log('err=>' + error)
+		// 	fs.rmSync(localTempDir, { recursive: true, force: true })
+		// }
 	}
 
 	private rmRepoTempDir() {
