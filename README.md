@@ -1,4 +1,10 @@
 ## day day up
+### 2022/03/16
+- 剑指 Offer 06. 从尾到头打印链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 24. 反转链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 35. 复杂链表的复制 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- ts泛型学习 [demo](https://github.com/aiuluna/huzhang-studybook/blob/main/src/project/typescript/ts-examples)
+
 ### 2022/03/15
 - 寻找峰值 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
 - 剑指 Offer 09. 用两个栈实现队列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
