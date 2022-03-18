@@ -1,4 +1,17 @@
 ## day day up
+### 2022/03/18
+- 爬楼梯 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 使用最小花费爬楼梯 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 03. 数组中重复的数字 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 53 - I. 在排序数组中查找数字 I [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 53 - II. 0～n-1中缺失的数字 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+
+### 2022/03/17
+- 斐波那契数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 第 N 个泰波那契数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 05. 替换空格 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 58 - II. 左旋转字符串 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+
 ### 2022/03/16
 - 剑指 Offer 06. 从尾到头打印链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
 - 剑指 Offer 24. 反转链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
