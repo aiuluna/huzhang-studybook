@@ -1,4 +1,19 @@
 ## day day up
+### 2022/03/20
+- 面试题32 - I. 从上到下打印二叉树
+- 剑指 Offer 32 - II. 从上到下打印二叉树 II
+- 剑指 Offer 32 - III. 从上到下打印二叉树 III
+- 打家劫舍
+- 打家劫舍 II
+- 删除并获得点数
+- 跳跃游戏
+- 跳跃游戏 II
+
+### 2022/03/19
+- 剑指 Offer 04. 二维数组中的查找
+- 剑指 Offer 11. 旋转数组的最小数字
+- 面试题50. 第一个只出现一次的字符
+
 ### 2022/03/18
 - 爬楼梯 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
 - 使用最小花费爬楼梯 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
