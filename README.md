@@ -1,4 +1,8 @@
 ## day day up
+### 2022/03/21
+- 剑指 Offer 26. 树的子结构
+- 剑指 Offer 27. 二叉树的镜像
+- 剑指 Offer 28. 对称的二叉树
 ### 2022/03/20
 - 面试题32 - I. 从上到下打印二叉树 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
 - 剑指 Offer 32 - II. 从上到下打印二叉树 II (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
