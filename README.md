@@ -1,23 +1,26 @@
 ## day day up
 ### 2022/03/21
-- 剑指 Offer 26. 树的子结构
-- 剑指 Offer 27. 二叉树的镜像
-- 剑指 Offer 28. 对称的二叉树
+- 剑指 Offer 26. 树的子结构 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 剑指 Offer 27. 二叉树的镜像 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 剑指 Offer 28. 对称的二叉树 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 最大子数组和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 环形子数组的最大和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+
 ### 2022/03/20
-- 面试题32 - I. 从上到下打印二叉树 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
-- 剑指 Offer 32 - II. 从上到下打印二叉树 II (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
-- 剑指 Offer 32 - III. 从上到下打印二叉树 III (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
-- 打家劫舍 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
-- 打家劫舍 II (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
-- 删除并获得点数 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
-- 跳跃游戏 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
-- 跳跃游戏 II (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
-- 最长公共前缀 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 面试题32 - I. 从上到下打印二叉树 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 32 - II. 从上到下打印二叉树 II [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 32 - III. 从上到下打印二叉树 III [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 打家劫舍 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 打家劫舍 II [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 删除并获得点数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 跳跃游戏 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 跳跃游戏 II [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 最长公共前缀 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
 
 ### 2022/03/19
-- 剑指 Offer 04. 二维数组中的查找 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
-- 剑指 Offer 11. 旋转数组的最小数字 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
-- 面试题50. 第一个只出现一次的字符 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 04. 二维数组中的查找 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 11. 旋转数组的最小数字 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 面试题50. 第一个只出现一次的字符 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
 
 ### 2022/03/18
 - 爬楼梯 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
