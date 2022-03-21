@@ -1,7 +1,35 @@
 ## day day up
+### 2022/03/20
+- 面试题32 - I. 从上到下打印二叉树 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 32 - II. 从上到下打印二叉树 II (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 32 - III. 从上到下打印二叉树 III (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 打家劫舍 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 打家劫舍 II (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 删除并获得点数 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 跳跃游戏 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 跳跃游戏 II (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 最长公共前缀 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+
+### 2022/03/19
+- 剑指 Offer 04. 二维数组中的查找 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 11. 旋转数组的最小数字 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 面试题50. 第一个只出现一次的字符 (https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+
 ### 2022/03/18
-- 剑指 Offer 03. 数组中重复的数字
-- 剑指 Offer 53 - I. 在排序数组中查找数字 I
+- 爬楼梯 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 使用最小花费爬楼梯 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 03. 数组中重复的数字 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 53 - I. 在排序数组中查找数字 I [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 53 - II. 0～n-1中缺失的数字 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 03. 数组中重复的数字 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 53 - I. 在排序数组中查找数字 I [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+
+### 2022/03/17
+- 斐波那契数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 第 N 个泰波那契数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 05. 替换空格 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+- 剑指 Offer 58 - II. 左旋转字符串 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
+
 ### 2022/03/16
 - 剑指 Offer 06. 从尾到头打印链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
 - 剑指 Offer 24. 反转链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
