@@ -1,4 +1,7 @@
 ## day day up
+### 2022/03/18
+- 剑指 Offer 03. 数组中重复的数字
+- 剑指 Offer 53 - I. 在排序数组中查找数字 I
 ### 2022/03/16
 - 剑指 Offer 06. 从尾到头打印链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
 - 剑指 Offer 24. 反转链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week19)
