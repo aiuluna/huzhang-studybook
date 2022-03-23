@@ -1,4 +1,11 @@
 ## day day up
+### 2022/03/23
+- 剑指 Offer 42 连续子数组的最大和
+- 剑指 Offer 47 礼物的最大价值
+- 买卖股票的最佳时机
+- 买卖股票的最佳时机 II
+- 最佳观光组合
+
 ### 2022/03/22
 - 剑指 Offer 10- I 斐波那契数列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
 - 剑指 Offer 10- II 青蛙跳台阶问题 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
