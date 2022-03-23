@@ -1,4 +1,10 @@
 ## day day up
+### 2022/03/22
+- 剑指 Offer 10- I 斐波那契数列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 剑指 Offer 10- II 青蛙跳台阶问题 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 剑指 Offer 63 股票的最大利润 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 乘积最大子数组 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 乘积为正数的最长子数组长度 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
 ### 2022/03/21
 - 剑指 Offer 26. 树的子结构 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
 - 剑指 Offer 27. 二叉树的镜像 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
