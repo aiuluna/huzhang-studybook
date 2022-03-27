@@ -1,10 +1,10 @@
 ## day day up
 ### 2022/03/27
-- 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面
-- 剑指 Offer 57. 和为s的两个数字
-- 剑指 Offer 58 - I. 翻转单词顺序
-- 不同的二叉搜索树
-- 丑数 II
+- 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 剑指 Offer 57. 和为s的两个数字 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 剑指 Offer 58 - I. 翻转单词顺序 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 不同的二叉搜索树 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
+- 丑数 II [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
 
 ### 2022/03/26
 - 剑指 Offer 25. 合并两个排序的链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
