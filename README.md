@@ -1,4 +1,7 @@
 ## day day up
+### 2022/03/28
+- 剑指 Offer 12. 矩阵中的路径 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
+
 ### 2022/03/27
 - 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
 - 剑指 Offer 57. 和为s的两个数字 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
