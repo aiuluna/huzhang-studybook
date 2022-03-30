@@ -13,6 +13,10 @@
 
 ### 2022/03/28
 - 剑指 Offer 12. 矩阵中的路径 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
+- 剑指 Offer 34 二叉树中和为某一值的路径
+- 杨辉三角 II		
+- 杨辉三角
+- 剑指 Offer 13 机器人的运动范围
 
 ### 2022/03/27
 - 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
