@@ -1,4 +1,16 @@
 ## day day up
+### 2022/03/29
+- 剑指 Offer 45. 把数组排成最小的数
+- 剑指 Offer 61. 扑克牌中的顺子
+- 二维区域和检索 - 矩阵不可变
+- 矩阵区域和
+
+### 2022/03/29
+- 三角形最小路径和
+- 下降路径最小和
+- 剑指 Offer 54 二叉搜索树的第k大节点
+- 剑指 Offer 36 二叉搜索树与双向链表
+
 ### 2022/03/28
 - 剑指 Offer 12. 矩阵中的路径 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
 
