@@ -1,22 +1,22 @@
 ## day day up
-### 2022/03/29
-- 剑指 Offer 45. 把数组排成最小的数
-- 剑指 Offer 61. 扑克牌中的顺子
-- 二维区域和检索 - 矩阵不可变
-- 矩阵区域和
+### 2022/03/30
+- 剑指 Offer 45. 把数组排成最小的数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
+- 剑指 Offer 61. 扑克牌中的顺子 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
+- 二维区域和检索 - 矩阵不可变 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
+- 矩阵区域和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
 
 ### 2022/03/29
-- 三角形最小路径和
-- 下降路径最小和
-- 剑指 Offer 54 二叉搜索树的第k大节点
-- 剑指 Offer 36 二叉搜索树与双向链表
+- 三角形最小路径和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
+- 下降路径最小和 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
+- 剑指 Offer 54 二叉搜索树的第k大节点 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
+- 剑指 Offer 36 二叉搜索树与双向链表 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
 
 ### 2022/03/28
 - 剑指 Offer 12. 矩阵中的路径 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
-- 剑指 Offer 34 二叉树中和为某一值的路径
-- 杨辉三角 II		
-- 杨辉三角
-- 剑指 Offer 13 机器人的运动范围
+- 剑指 Offer 34 二叉树中和为某一值的路径 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
+- 杨辉三角 II	[代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
+- 杨辉三角 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
+- 剑指 Offer 13 机器人的运动范围 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
 
 ### 2022/03/27
 - 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week20)
