@@ -1,6 +1,8 @@
 ## day day up
 ### 2022/03/31
 - 剑指 Offer 40. 最小的k个数
+- 不同路径
+- 不同路径 II
 ### 2022/03/30
 - 剑指 Offer 45. 把数组排成最小的数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
 - 剑指 Offer 61. 扑克牌中的顺子 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
