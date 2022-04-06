@@ -1,10 +1,10 @@
 ## day day up
 ### 2022/04/06
-- 零钱兑换
-- 零钱兑换 II
-- 最长公共子序列
-- 剑指 Offer 39. 数组中出现次数超过一半的数字
-- 剑指 Offer 57 - II. 和为s的连续正数序列
+- 零钱兑换 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
+- 零钱兑换 II [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
+- 最长公共子序列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
+- 剑指 Offer 39. 数组中出现次数超过一半的数字 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
+- 剑指 Offer 57 - II. 和为s的连续正数序列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
 
 ### 2022/04/05
 - 剑指 Offer 56 - I. 数组中数字出现的次数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week21)
