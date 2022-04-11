@@ -1,4 +1,12 @@
 ## day day up
+### 2022/04/08
+- 剑指 Offer 29. 顺时针打印矩阵
+- 剑指 Offer 31. 栈的压入、弹出序列
+
+### 2022/04/07
+- 剑指 Offer 66. 构建乘积数组
+- 剑指 Offer 62. 圆圈中最后剩下的数字
+- 剑指 Offer 14- I. 剪绳子
 ### 2022/04/06
 - 零钱兑换 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
 - 零钱兑换 II [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
