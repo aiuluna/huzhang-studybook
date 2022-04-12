@@ -1,12 +1,26 @@
 ## day day up
-### 2022/04/08
-- 剑指 Offer 29. 顺时针打印矩阵
-- 剑指 Offer 31. 栈的压入、弹出序列
+### 2022/04/12
+- 剑指 Offer 49 丑数
+- 剑指 Offer 60 n个骰子的点数
 
-### 2022/04/07
-- 剑指 Offer 66. 构建乘积数组
-- 剑指 Offer 62. 圆圈中最后剩下的数字
-- 剑指 Offer 14- I. 剪绳子
+### 2022/04/11
+- 剑指 Offer 20 表示数值的字符串 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week23)
+- 剑指 Offer 67 把字符串转换成整数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week23)
+- 剑指 Offer 59 - I 滑动窗口的最大值 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week23)
+- 剑指 Offer 59 - II 队列的最大值 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week23)
+- 剑指 Offer 38 字符串的排列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week23)
+- 剑指 Offer 37 序列化二叉树 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week23)
+
+### 2022/04/08
+- 剑指 Offer 29. 顺时针打印矩阵 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
+- 剑指 Offer 31. 栈的压入、弹出序列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
+- 剑指 Offer 57 - II. 和为s的连续正数序列 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
+
+### 2022/04/07 
+- 剑指 Offer 66. 构建乘积数组 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
+- 剑指 Offer 62. 圆圈中最后剩下的数字  [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
+- 剑指 Offer 14- I. 剪绳子  [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
+
 ### 2022/04/06
 - 零钱兑换 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
 - 零钱兑换 II [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week22)
