@@ -12,7 +12,8 @@ resource
 static-cache
 package-lock.json
 tgz
-.vscode
+.vscodes
 dist.tgz
 yarn*
 **/node_modules
+*.log

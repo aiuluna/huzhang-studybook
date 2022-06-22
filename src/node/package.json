@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/node": "^17.0.32",
+    "@types/node-rsa": "^1.1.1",
+    "node-fetch": "^3.2.4",
+    "node-rsa": "^1.1.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4",
+    "typings": "^2.1.1"
+  }
+}

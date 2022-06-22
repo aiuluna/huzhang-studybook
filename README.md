@@ -1,7 +1,11 @@
 ## day day up
+
+### 2022/04/14
+- 无重复字符的最长子串 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week23)
+- LRU 缓存 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week23)
 ### 2022/04/12
-- 剑指 Offer 49 丑数
-- 剑指 Offer 60 n个骰子的点数
+- 剑指 Offer 49 丑数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week23)
+- 剑指 Offer 60 n个骰子的点数 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week23)
 
 ### 2022/04/11
 - 剑指 Offer 20 表示数值的字符串 [代码](https://github.com/aiuluna/huzhang-studybook/blob/main/src/week23)

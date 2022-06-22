@@ -1,0 +1,11 @@
+{
+    "name": "test-npm",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {},
+    "dependencies": {
+        "buffer": "^6.0.3",
+        "base64-js": "1.0.1"
+    },
+    "devDependencies": {}
+}
