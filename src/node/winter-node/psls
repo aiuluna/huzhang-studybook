@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+const process = require('process')
+const child_process = require('child_process')
+
+const ps = child_process.spawn('ps')
+ps.stdout.pipe(process.stdout)
+ps.stdout.on('end', () => {
+    console.log('ps end')
+})

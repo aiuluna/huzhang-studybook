@@ -1,6 +1,6 @@
 const list = document.querySelector('.list');
 let sourceNode = null;
-const flip = new Flip(list, 0.3)
+const flip = new Flip(list, 0.5)
 
 const onDragStart = e => {
   setTimeout(() => {

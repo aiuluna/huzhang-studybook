@@ -1,0 +1,14 @@
+{
+  "name": "http-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baiduClient.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "huzhang",
+  "license": "ISC"
+}
