@@ -80,12 +80,13 @@ class FlipDom {
             if (this._invert()) {
                 yield 'lastMoveToFirst'
                 this.isTranstion = true;
+                this.dom.style.transition = this.duration;
+                this.dom.style.transform = 'none';
+                this.dom.removeEventListener('transitionend', this._transitionEndHandler);
+                this.dom.addEventListener('transitionend', this._transitionEndHandler);
             }
         }
-        this.dom.style.transition = this.duration;
-        this.dom.style.transform = 'none';
-        this.dom.removeEventListener('transitionend', this._transitionEndHandler);
-        this.dom.addEventListener('transitionend', this._transitionEndHandler);
+       
     }
 
 
