@@ -1,59 +1,28 @@
 class Flip {
-    isTranstion = false;
-	container
-	duration
-	firstList = []
-	lastList = []
-	constructor(container, duration) {
-		this.container = container
-		this.duration = duration || 0
-		this._first()
-	}
 
-	_first() {
-		this.firstList = Array.from(this.container.children).map((item) => {
-			return {
-				x: item.offsetLeft,
-				y: item.offsetTop,
-				ele: item,
-			}
-		})
-	}
+    constructor(container, duration) {
+        this.FlipDomList = Array.from(container.children).map(item => new FlipDom(item, duration));
+        this.FlipDomList.map(it => it._first())
 
-	_last() {
-		this.lastList = Array.from(this.container.children).map((item) => {
-			return {
-				x: item.offsetLeft,
-				y: item.offsetTop,
-				ele: item,
-			}
-		})
-	}
+    }
 
-	_invert() {
-		this.firstList.forEach((first) => {
-			const last = this.lastList.find((_last) => _last.ele === first.ele)
-			if (first.x === last.x && first.y === last.y) return
-			const offsetX = first.x - last.x
-			const offsetY = first.y - last.y
+    play() {
+        let gs = this.FlipDomList.map(item => {
+            const generator = item.play();
+            return {
+                generator,
+                generatorResult: generator.next()
+            }
+        }).filter(g => !g.generatorResult.done)
+        while (gs.length) {
+            document.body.clientWidth;
+            gs = gs.map(item => {
+                item.generatorResult = item.generator.next();
+                return item
+            }).filter(g => !g.generatorResult.done)
+        }
 
-            first.ele.style.transform = `translateX(${offsetX}px) translateY(${offsetY}px)`;
-            setTimeout(() => {
-                first.ele.style.removeProperty('transform')
-                first.ele.style.transition = `transform ${this.duration}s`
-            }, 0)
-            setTimeout(() => {
-                first.ele.style.removeProperty('transition')
-            }, this.duration * 1000)
-		})
-	}
-
-	play() {
-		this._last()
-		this._invert()
-
-		this.firstList = this.lastList
-	}
+    }
 }
 
 class FlipDom {
@@ -69,15 +38,18 @@ class FlipDom {
 
     _transitionEndHandler = () => {
         this.isTranstion = false;
+        this.dom.style.transform = 'none'
+        this.dom.style.transition = 'none'
+        this._first()
     }
 
-    _getDomPosition() {
+    _getDomPosition = () => {
         const rect = this.dom.getBoundingClientRect();
         return {
-          x: rect.left,
-          y: rect.top,  
+            x: rect.left,
+            y: rect.top,
         };
-      }
+    }
 
     _first = () => {
         this.firstPosition.x = this._getDomPosition().x;
@@ -86,14 +58,34 @@ class FlipDom {
 
     _last = () => {
         if (!this.isTranstion) {
-            const lastPositon = this._getDomPosition();
-            const offset = {
-                x: this.firstPosition.x - lastPositon.x,
-                y: this.firstPosition.y - lastPositon.y
-            }
-            if (!offset.x && !offset.y) return;
-            
+            this.dom.style.transition = 'none'
+            this.lastPositon = this._getDomPosition();
+            return true
         }
+        return false
+    }
+
+    _invert = () => {
+        const offset = {
+            x: this.firstPosition.x - this.lastPositon.x,
+            y: this.firstPosition.y - this.lastPositon.y
+        }
+        if (!offset.x && !offset.y) return false;
+        this.dom.style.transform = `translateX(${offset.x}px) translateY(${offset.y}px)`;
+        return true
+    }
+
+    *play() {
+        if (this._last()) {
+            if (this._invert()) {
+                yield 'lastMoveToFirst'
+                this.isTranstion = true;
+            }
+        }
+        this.dom.style.transition = this.duration;
+        this.dom.style.transform = 'none';
+        this.dom.removeEventListener('transitionend', this._transitionEndHandler);
+        this.dom.addEventListener('transitionend', this._transitionEndHandler);
     }
 
 
