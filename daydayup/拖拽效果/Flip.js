@@ -91,7 +91,8 @@ class FlipDom {
                 x: this.firstPosition.x - lastPositon.x,
                 y: this.firstPosition.y - lastPositon.y
             }
-
+            if (!offset.x && !offset.y) return;
+            
         }
     }
 
