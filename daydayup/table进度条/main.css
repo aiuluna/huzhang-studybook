@@ -1,0 +1,17 @@
+table {
+  width: 50%;
+  position: relative;
+}
+
+
+
+tr::after {
+  content: " ";
+  position: absolute;
+  width: var(--process-width);
+  left: 0;
+  margin-top: calc(var(--row-height) - 2px);
+  /* bottom: 0; */
+  height: 2px;
+  background-color: red;
+}
