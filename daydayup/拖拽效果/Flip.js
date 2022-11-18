@@ -86,8 +86,5 @@ class FlipDom {
                 this.dom.addEventListener('transitionend', this._transitionEndHandler);
             }
         }
-       
     }
-
-
 }
